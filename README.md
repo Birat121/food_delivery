@@ -42,3 +42,5 @@ mern-food-delivery/
 │ │ └── index.js
 └── README.md
 
+Deployed URL = https://app-food-delivery1.netlify.app/
+
