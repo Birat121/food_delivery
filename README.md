@@ -6,7 +6,7 @@ A full stack food delivery application built with the **MERN Stack** (MongoDB, E
 
 - 🧭 Browse food items by category (e.g., Burgers, Pizza, Drinks, etc.)
 - 🛒 Add and remove items from a shopping cart
-- 👤 Simple user authentication (optional)
+- 👤 Simple user authentication 
 - 🧾 Order summary view before checkout
 - 💾 MongoDB-based backend for product and order management
 - ⚡ RESTful APIs for seamless integration between frontend and backend
@@ -42,17 +42,3 @@ mern-food-delivery/
 │ │ └── index.js
 └── README.md
 
-🧑‍💻 Author
-Birat
-
-📄 License
-This project is licensed under the MIT License.
-
-💡 Future Improvements
-User registration and login
-
-Order tracking and status updates
-
-Payment gateway integration
-
-Admin dashboard to manage products and orders
